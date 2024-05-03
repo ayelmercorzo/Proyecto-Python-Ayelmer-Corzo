@@ -1,0 +1,58 @@
+{
+    "datamedicos": {
+        "Pediatria": [
+            {
+                "identificacion": "1094045203",
+                "nombre": "Ayelmer",
+                "apellidos": "Corzo",
+                "correo electronico": "alancorzo1512@gmail.com",
+                "consultorio": 1,
+                "especialidad": "Pediatria",
+                "horarios": [
+                    "08:00 - 11:50",
+                    "14:00 - 17:50"
+                ],
+                "citas": [
+                    {
+                        "numero de identificacion": "1094045203",
+                        "nombre, apellidos": "Ayelmer Corzo",
+                        "numero telefonico": "3134277875",
+                        "numero celular": "3134277875",
+                        "fecha de nacimiento": "15/06/2003",
+                        "edad": 20,
+                        "genero": "M",
+                        "consultorio": "Pediatria",
+                        "hora de cita": "09:00 - 09:20"
+                    }
+                ]
+            }
+        ],
+        "Ginecologia": [
+            {
+                "identificacion": "1004844045203",
+                "nombre": "Elidallana",
+                "apellidos": "Cristancho",
+                "correo electronico": "cristanchocaceres@gmail.com",
+                "consultorio": 2,
+                "especialidad": "Ginecologia",
+                "horarios": [
+                    "08:00 - 11:50",
+                    "14:00 - 17:50"
+                ],
+                "citas": [
+                    {
+                        "numero de identificacion": "1003427164",
+                        "nombre, apellidos": "Lil Silvio",
+                        "numero telefonico": "308167144",
+                        "numero celular": "308167144",
+                        "fecha de nacimiento": "01/01/2004",
+                        "edad": 7,
+                        "genero": "M",
+                        "consultorio": "Ginecologia",
+                        "hora de cita": "09:20 - 09:40"
+                    }
+                ]
+            }
+        ]
+    }
+}

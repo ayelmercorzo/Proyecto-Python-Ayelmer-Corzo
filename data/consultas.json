@@ -1,0 +1,29 @@
+{
+    "dataConsultas": {
+        "1094045203": {
+            "Fecha": "02/05/2024",
+            "ID": "1094045203",
+            "Medico": "Ayelmer",
+            "Paciente": {
+                "Nombre": "Ayelmer Corzo",
+                "Edad": 20,
+                "Genero": "M",
+                "Direccion": "cll2a",
+                "Telefono": "3134277875"
+            },
+            "Diagnostico": "Gripe Comun",
+            "Receta Medica": {
+                "Receta": "tomar descanso",
+                "Medicamentos": {
+                    "Nombre": "acetaminofen",
+                    "Dosis": "3 pastillas",
+                    "Frecuencia": "cada 8 horas",
+                    "Duracion": "durante 2 semanas",
+                    "Instrucciones": "No tomar alcohol durante el tratamiento"
+                }
+            },
+            "Consultorio": "Pediatria",
+            "Correo del paciente": "alancorzo1512@gmail.com"
+        }
+    }
+}
