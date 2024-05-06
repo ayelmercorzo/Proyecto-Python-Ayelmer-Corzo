@@ -39,10 +39,10 @@ def ingresoDatosPaciente():
 
                     
                     paciente = {
-                        'numero de identificacion': input("Ingrese el Nro de documento: "),
+                        'numero de identificacion': int(input("Ingrese el Nro de documento: ")),
                         'nombre, apellidos': input("Ingrese el nombre completo del paciente: "),
-                        'numero telefonico': input("Ingrese su numero telefonico: "),
-                        'numero celular': input("Ingrese su numero de celular: "),
+                        'numero telefonico': int(input("Ingrese su numero telefonico: ")),
+                        'numero celular': int(input("Ingrese su numero de celular: ")),
                         'fecha de nacimiento': input("Ingrese su fecha de nacimiento (dia/mes/año): "),
                         'edad': int(input("Ingrese su edad: ")),
                         'genero': input("Ingrese su genero (F o M): "),
