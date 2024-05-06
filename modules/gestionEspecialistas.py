@@ -55,7 +55,7 @@ def modificarEspecialista(identificacion, nuevo_correo, nuevo_consultorio):
     print("No se encontró ningún médico con esa identificación.")
 
 def modificarMedico():
-    menu.titubloEspecialistas()
+    menu.tituloEspecialistas()
     identificacion = input("Ingrese la identificación del médico a modificar: ")
     nuevo_correo = input("Ingrese el nuevo correo electrónico del médico: ")
     nuevo_consultorio = input("Ingrese el nuevo consultorio del médico: ")
@@ -95,7 +95,7 @@ def consultarEspecialistaPorIdentificacion(identificacion):
     print("No se encontró ningún médico con esa identificación.")
 
 def ConsultarEspecialista():
-    menu.titubloEspecialistas()
+    menu.tituloEspecialistas()
     identificacion = input("Ingrese la identificación del médico a consultar: ")
     consultarEspecialistaPorIdentificacion(identificacion)
 

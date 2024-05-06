@@ -35,7 +35,7 @@ def barra_de_carga():
 def verificar_contraseña():
     borrar_pantalla()
     menu.tituloEspecialistas()
-    contraseñas_permitidas = ["pass123", "pass456", "pass789"]
+    contraseñas_permitidas = ["12345", "6789", "0000"]
     contraseña_ingresada = input("Ingrese la contraseña: ")
 
     if contraseña_ingresada in contraseñas_permitidas:
